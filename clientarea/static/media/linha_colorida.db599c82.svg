@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="760" height="404" viewBox="0 0 760 404">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_15729" data-name="Retângulo 15729" width="760" height="404" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Linha_Colorida" data-name="Linha Colorida" transform="translate(1185.907 244.159) rotate(180)">
+    <g id="Grupo_de_máscara_39718" data-name="Grupo de máscara 39718" transform="translate(425.907 -159.841)" clip-path="url(#clip-path)">
+      <rect id="Retângulo_15727" data-name="Retângulo 15727" width="760.906" height="405.573" transform="translate(-0.906 -1.573)" fill="#4480c5"/>
+      <path id="Caminho_247583" data-name="Caminho 247583" d="M0,0V392.986L170.534,0Z" transform="translate(772.532 -0.19) rotate(90)" fill="#f67922"/>
+      <path id="Caminho_247585" data-name="Caminho 247585" d="M108.168,0V249.265L0,0Z" transform="translate(476.631 295.833) rotate(90)" fill="#f67922"/>
+      <ellipse id="Elipse_331" data-name="Elipse 331" cx="144.231" cy="116.745" rx="144.231" ry="116.745" transform="translate(598.721 555.217) rotate(-90)" fill="#ffcf00"/>
+      <ellipse id="Elipse_332" data-name="Elipse 332" cx="124.071" cy="96.879" rx="124.071" ry="96.879" transform="translate(-29.978 198.783) rotate(-90)" fill="#30b47a"/>
+      <ellipse id="Elipse_333" data-name="Elipse 333" cx="124.071" cy="96.879" rx="124.071" ry="96.879" transform="translate(398.983 204.298) rotate(-90)" fill="#30b47a"/>
+      <rect id="Retângulo_15742" data-name="Retângulo 15742" width="362.015" height="178.866" transform="translate(427.172 442.242) rotate(-90)" fill="#1d5297"/>
+      <path id="Caminho_247584" data-name="Caminho 247584" d="M0,200.356V0H259.122Z" transform="translate(185.516 -1.574)" fill="#fbce3b"/>
+    </g>
+  </g>
+</svg>

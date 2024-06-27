@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="5" preserveAspectRatio="none" viewBox="0 0 800 5">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_15958" data-name="Retângulo 15958" width="606" height="5" fill="#3c97ff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Retângulo_15962" data-name="Retângulo 15962" width="480" height="5" fill="#3c97ff"/>
+    </clipPath>
+  </defs>
+  <g id="linha-site" transform="translate(0 -52)">
+    <g id="Grupo_40129" data-name="Grupo 40129" transform="translate(194 52)" clip-path="url(#clip-path)">
+      <rect id="Retângulo_15955" data-name="Retângulo 15955" width="480" height="5" fill="#fff"/>
+      <rect id="Retângulo_15956" data-name="Retângulo 15956" width="1445.01" height="5.313" transform="translate(-800.477)" fill="#3c97ff"/>
+      <path id="Caminho_247838" data-name="Caminho 247838" d="M67.357,0V136.476L0,0Z" transform="translate(414.101 -41.681) rotate(90)" fill="#f67922"/>
+      <ellipse id="Elipse_1218" data-name="Elipse 1218" cx="17.049" cy="39.028" rx="17.049" ry="39.028" transform="translate(405.034 21.767) rotate(-90)" fill="#ffcf00"/>
+      <ellipse id="Elipse_1219" data-name="Elipse 1219" cx="14.525" cy="33.249" rx="14.525" ry="33.249" transform="translate(0.217 16.718) rotate(-90)" fill="#f67922"/>
+      <rect id="Retângulo_15957" data-name="Retângulo 15957" width="43.3" height="84.194" transform="translate(148.521 13.648) rotate(-90)" fill="#1d5297"/>
+      <path id="Caminho_247839" data-name="Caminho 247839" d="M51.643,0V22.56H0Z" transform="translate(97.152 -11.159)" fill="#fbce3b"/>
+    </g>
+    <g id="Grupo_40130" data-name="Grupo 40130" transform="translate(0 52)" clip-path="url(#clip-path-2)">
+      <rect id="Retângulo_15959" data-name="Retângulo 15959" width="480" height="5" fill="#fff"/>
+      <rect id="Retângulo_15960" data-name="Retângulo 15960" width="1445.01" height="5.313" transform="translate(-800.477)" fill="#3c97ff"/>
+      <path id="Caminho_247840" data-name="Caminho 247840" d="M67.357,0V136.476L0,0Z" transform="translate(414.101 -41.681) rotate(90)" fill="#f67922"/>
+      <ellipse id="Elipse_1220" data-name="Elipse 1220" cx="17.049" cy="39.028" rx="17.049" ry="39.028" transform="translate(405.034 21.767) rotate(-90)" fill="#ffcf00"/>
+      <ellipse id="Elipse_1221" data-name="Elipse 1221" cx="14.525" cy="35.34" rx="14.525" ry="35.34" transform="translate(-3.965 16.718) rotate(-90)" fill="#f67922"/>
+      <rect id="Retângulo_15961" data-name="Retângulo 15961" width="43.3" height="84.194" transform="translate(148.521 13.648) rotate(-90)" fill="#1d5297"/>
+      <path id="Caminho_247841" data-name="Caminho 247841" d="M51.643,0V22.56H0Z" transform="translate(97.152 -11.159)" fill="#fbce3b"/>
+    </g>
+  </g>
+</svg>

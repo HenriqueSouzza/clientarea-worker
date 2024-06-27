@@ -1,0 +1,17 @@
+{
+  "name": "microfrontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run-clientarea": "npx serve -s clientarea --cors",
+    "run-domains": "PORT=3001 npx serve -s domains --cors",
+    "worker": "wrangler dev"
+  },
+  "devDependencies": {
+    "@cloudflare/vitest-pool-workers": "^0.4.5",
+    "@cloudflare/workers-types": "^4.20240620.0",
+    "typescript": "^5.4.5",
+    "wrangler": "^3.60.3"
+  }
+}

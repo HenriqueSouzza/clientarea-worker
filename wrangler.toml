@@ -1,0 +1,11 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "microfrontend"
+main = "index.ts"
+compatibility_date = "2024-06-20"
+compatibility_flags = ["nodejs_compat"]
+
+[dev]
+ip = "0.0.0.0"
+port = 5100
+local_protocol="http"
+upstream_protocol="https"

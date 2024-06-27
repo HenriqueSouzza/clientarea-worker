@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.708" height="44.425" viewBox="0 0 40.708 44.425">
+  <defs>
+    <filter id="email" x="0" y="3.088" width="40.708" height="41.337" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#2e578b" flood-opacity="0.169"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.534" y2="-0.431" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d8e7f6"/>
+      <stop offset="1" stop-color="#7cb3ec"/>
+    </linearGradient>
+  </defs>
+  <g id="envelope" transform="translate(40.354 40) rotate(180)">
+    <g id="Grupo_40057" data-name="Grupo 40057" transform="translate(0 0)">
+      <rect id="fundo" width="40" height="27.246" transform="translate(0 0.075)" fill="#729ac8"/>
+      <path id="aba" d="M20.091,15.391,40,0H0Z" transform="translate(0 24.609)" fill="#89aed8"/>
+      <g transform="matrix(-1, 0, 0, -1, 40.35, 40)" filter="url(#email)">
+        <rect id="email-2" data-name="email" width="31.708" height="32.337" transform="translate(36.21 39.92) rotate(180)" fill="#fff"/>
+      </g>
+      <path id="dentro" d="M0,27.255l19.967-18L40,27.255V0H0Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      <path id="fundo-2" data-name="fundo" d="M19.962,17.521,40,0H0Z" transform="translate(0 0)" fill="#cce1f8"/>
+    </g>
+  </g>
+</svg>
