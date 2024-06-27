@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+  padding: 30px;
+  background-color: rgb(241, 243, 246);
+}
+
+.container-menu {
+  width: 200px;
+  height: 100vh;
+  background-color: rgb(31, 32, 68);
+}
+
+.container-menu>ul {
+  padding-top: 40px;
+}
+
+.container-menu>ul>li {
+  padding: 16px 18px 16px 16px;
+}
+
+.container-menu>ul>li>a {
+  color: rgb(205, 216, 223);
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 700;
+
+  &:hover,
+  &:active {
+    color: rgb(116, 193, 255);
+  }
+}
